@@ -1,0 +1,2 @@
+Linux est un système d'exploitation
+Le terminal permet de communiquer avec le système.
